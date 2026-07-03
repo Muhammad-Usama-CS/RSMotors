@@ -1,0 +1,2992 @@
+[
+  {
+    "id": "c5f8529107e34e064fc0dbcab",
+    "slug": "toyota-corolla-2023-0",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "variant": "Altis Grande 1.8",
+    "year": 2023,
+    "price": 7850000,
+    "mileageKm": 12000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Sedan",
+    "city": "Lahore",
+    "color": "Pearl White",
+    "engineCC": 1800,
+    "ownership": "1st Owner",
+    "registeredCity": "Lahore",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": true,
+    "description": "Showroom-condition Corolla Altis Grande with full options, sunroof, and leather interior. Single owner, company maintained with complete service history from Toyota Indus authorized dealership.",
+    "features": "Sunroof,Leather Seats,Cruise Control,Push Start,Reverse Camera,Climate Control,Alloy Rims,LED Headlamps",
+    "images": [
+      {
+        "id": "caed1f8293d4596ed0ed475c2",
+        "url": "https://picsum.photos/seed/toyota-corolla-0-1/1200/800",
+        "alt": "Toyota Corolla photo 1",
+        "order": 0,
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c86a4dcc4785f81c00f8f2063",
+        "url": "https://picsum.photos/seed/toyota-corolla-0-2/1200/800",
+        "alt": "Toyota Corolla photo 2",
+        "order": 1,
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c9d657c47f30bc4b30b98116b",
+        "url": "https://picsum.photos/seed/toyota-corolla-0-3/1200/800",
+        "alt": "Toyota Corolla photo 3",
+        "order": 2,
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "ccf51d5d22b75ff4195597024",
+        "url": "https://picsum.photos/seed/toyota-corolla-0-4/1200/800",
+        "alt": "Toyota Corolla photo 4",
+        "order": 3,
+        "carId": "c5f8529107e34e064fc0dbcab"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c80b1fabc8b140c601d463e8d",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c85e7da2b5d3703d038c543fd",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c9283b1a84009dae4535df705",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c7537f8acc3cad4f2f71ed577",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c29e696014484be1c7b20c688",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c0c0c0524d1209c8bb8ef59e4",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c710116be27622d2791462ff2",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      },
+      {
+        "id": "c449c4a1a744d008602b2d708",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c5f8529107e34e064fc0dbcab"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "cd60f1472a7e050baf2c56107",
+    "slug": "toyota-yaris-2022-1",
+    "brand": "Toyota",
+    "model": "Yaris",
+    "variant": "ATIV X 1.5",
+    "year": 2022,
+    "price": 5450000,
+    "mileageKm": 24000,
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "bodyType": "Sedan",
+    "city": "Karachi",
+    "color": "Phantom Brown",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Karachi",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "Well-maintained Yaris ATIV X with genuine paint and accident-free history. Smooth CVT transmission and excellent fuel economy, ideal for city and highway driving.",
+    "features": "Climate Control,Cruise Control,Alloy Rims,Reverse Camera,Multimedia Display,Steering Switches",
+    "images": [
+      {
+        "id": "cac707940baf5a12b7aa111ea",
+        "url": "https://picsum.photos/seed/toyota-yaris-1-1/1200/800",
+        "alt": "Toyota Yaris photo 1",
+        "order": 0,
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c06330a379c6355c794d7d685",
+        "url": "https://picsum.photos/seed/toyota-yaris-1-2/1200/800",
+        "alt": "Toyota Yaris photo 2",
+        "order": 1,
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c52dba37ba03dbd7edbf47fa6",
+        "url": "https://picsum.photos/seed/toyota-yaris-1-3/1200/800",
+        "alt": "Toyota Yaris photo 3",
+        "order": 2,
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c3c1aa09ee14d2a7484875619",
+        "url": "https://picsum.photos/seed/toyota-yaris-1-4/1200/800",
+        "alt": "Toyota Yaris photo 4",
+        "order": 3,
+        "carId": "cd60f1472a7e050baf2c56107"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cfece7688c372c1f45281e890",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c77f50495025c702ca28f0447",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "cdbc9f9dc768779ee655d6ff4",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c92984629467902fb4c744e62",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c6daa16e415e8e70f0bdbc1a4",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c8f5684504bcea7c7a0ce1d51",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c0427a079786d68cddff4dd91",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "cd60f1472a7e050baf2c56107"
+      },
+      {
+        "id": "c3b4a015d1c1b5606fdf38d05",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "cd60f1472a7e050baf2c56107"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c996e8dd3badca8459a1fd169",
+    "slug": "toyota-fortuner-2021-2",
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "variant": "Sigma 4 2.8",
+    "year": 2021,
+    "price": 16500000,
+    "mileageKm": 38000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Islamabad",
+    "color": "Attitude Black",
+    "engineCC": 2800,
+    "ownership": "2nd Owner",
+    "registeredCity": "Islamabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "Powerful 4x4 Fortuner Sigma 4 diesel, well maintained with full service record. Strong off-road capability with premium leather interior and advanced safety features.",
+    "features": "4x4 Drive,Leather Seats,Sunroof,7 Airbags,Cruise Control,360 Camera,Push Start,Roof Rails",
+    "images": [
+      {
+        "id": "cb66da748711dac069e66bd9a",
+        "url": "https://picsum.photos/seed/toyota-fortuner-2-1/1200/800",
+        "alt": "Toyota Fortuner photo 1",
+        "order": 0,
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "cad265a12df2ca3e69f14f43c",
+        "url": "https://picsum.photos/seed/toyota-fortuner-2-2/1200/800",
+        "alt": "Toyota Fortuner photo 2",
+        "order": 1,
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "c5f060fe7fadb31139d7fbdf2",
+        "url": "https://picsum.photos/seed/toyota-fortuner-2-3/1200/800",
+        "alt": "Toyota Fortuner photo 3",
+        "order": 2,
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "ca173fc1f9a3037385a13df4d",
+        "url": "https://picsum.photos/seed/toyota-fortuner-2-4/1200/800",
+        "alt": "Toyota Fortuner photo 4",
+        "order": 3,
+        "carId": "c996e8dd3badca8459a1fd169"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c777f640ff9864a07d792a311",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "c79bc3c1867c6a6d27e0a3267",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "c3cc6183efffc239fe43b7110",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "c9ece7ad3bebaccbf6e3c9715",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "c192ede5749621cc96bd5dbb6",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "ccc04d881dc5bc04f27dd4d07",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "c69d52acde29428c107645327",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c996e8dd3badca8459a1fd169"
+      },
+      {
+        "id": "cc023faa6f5942b3e4e071a82",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c996e8dd3badca8459a1fd169"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c941d43120b96c8429ca895a8",
+    "slug": "toyota-hilux-2022-3",
+    "brand": "Toyota",
+    "model": "Hilux",
+    "variant": "Revo V 2.8",
+    "year": 2022,
+    "price": 13200000,
+    "mileageKm": 19500,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "bodyType": "Pickup",
+    "city": "Rawalpindi",
+    "color": "Silver Metallic",
+    "engineCC": 2800,
+    "ownership": "1st Owner",
+    "registeredCity": "Rawalpindi",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": true,
+    "description": "Toyota Hilux Revo V double cabin, genuine condition with company maintenance. Perfect blend of rugged capability and on-road comfort.",
+    "features": "4x4 Drive,Leather Seats,Cruise Control,Reverse Camera,Fog Lamps,Alloy Rims",
+    "images": [
+      {
+        "id": "cdb2bf6b1dee83066e97a4af3",
+        "url": "https://picsum.photos/seed/toyota-hilux-3-1/1200/800",
+        "alt": "Toyota Hilux photo 1",
+        "order": 0,
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "cef876317a4e5cdc26251904d",
+        "url": "https://picsum.photos/seed/toyota-hilux-3-2/1200/800",
+        "alt": "Toyota Hilux photo 2",
+        "order": 1,
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "c27897a855feeef434207b7b1",
+        "url": "https://picsum.photos/seed/toyota-hilux-3-3/1200/800",
+        "alt": "Toyota Hilux photo 3",
+        "order": 2,
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "c65b01fe047565974d0339edc",
+        "url": "https://picsum.photos/seed/toyota-hilux-3-4/1200/800",
+        "alt": "Toyota Hilux photo 4",
+        "order": 3,
+        "carId": "c941d43120b96c8429ca895a8"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c39350b7ed9db85ce13117bc6",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "c516e60d19e3089d6123ad06c",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "ca203045c5907f94dbc7257af",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "cdbdfee640d8037d57ffaf6ad",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "c168c661cdd866c2f6238ece0",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "c9de77fcde56223643526acc3",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "c285804619acf2cccbf87775b",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c941d43120b96c8429ca895a8"
+      },
+      {
+        "id": "cfea706f071e843b5f7c89d04",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c941d43120b96c8429ca895a8"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c65b9701491fa6314766c4c66",
+    "slug": "honda-civic-2023-4",
+    "brand": "Honda",
+    "model": "Civic",
+    "variant": "Oriel 1.8 i-VTEC",
+    "year": 2023,
+    "price": 8350000,
+    "mileageKm": 8500,
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "bodyType": "Sedan",
+    "city": "Faisalabad",
+    "color": "Lunar Silver Metallic",
+    "engineCC": 1800,
+    "ownership": "1st Owner",
+    "registeredCity": "Faisalabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": true,
+    "description": "Latest generation Honda Civic Oriel with bold styling and premium features. Low mileage, single owner, kept in pristine showroom condition.",
+    "features": "Sunroof,Leather Seats,Honda Sensing,Cruise Control,LED Headlamps,Push Start,Wireless Charging",
+    "images": [
+      {
+        "id": "cd1661e15ba7cc0dee50ba099",
+        "url": "https://picsum.photos/seed/honda-civic-4-1/1200/800",
+        "alt": "Honda Civic photo 1",
+        "order": 0,
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c648a110ac2d055fa2f435424",
+        "url": "https://picsum.photos/seed/honda-civic-4-2/1200/800",
+        "alt": "Honda Civic photo 2",
+        "order": 1,
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "cc792c693cf61c41aea04e537",
+        "url": "https://picsum.photos/seed/honda-civic-4-3/1200/800",
+        "alt": "Honda Civic photo 3",
+        "order": 2,
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "cc9dbb119f5187efab05f2dd1",
+        "url": "https://picsum.photos/seed/honda-civic-4-4/1200/800",
+        "alt": "Honda Civic photo 4",
+        "order": 3,
+        "carId": "c65b9701491fa6314766c4c66"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c3c38bfd740bcf88e2000ccf6",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c71637621026260e27ee18095",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c92c712a402f4ef86de1df15f",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c1cc7084d0743ceb6a3378dc1",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c96ad19509e5c117ba1d77d06",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c06aaebef8bfe488b64ac0bb3",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "c265353d85b52c42d6f19d1e6",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c65b9701491fa6314766c4c66"
+      },
+      {
+        "id": "cd7eca1c700f77d116737c85c",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c65b9701491fa6314766c4c66"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "cf210152c12a662e23cf60465",
+    "slug": "honda-city-2022-5",
+    "brand": "Honda",
+    "model": "City",
+    "variant": "Aspire 1.5 CVT",
+    "year": 2022,
+    "price": 5750000,
+    "mileageKm": 21000,
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "bodyType": "Sedan",
+    "city": "Multan",
+    "color": "Platinum White Pearl",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Multan",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Honda City Aspire CVT, fuel efficient and comfortable family sedan with complete documents and clean history.",
+    "features": "Cruise Control,Alloy Rims,Climate Control,Reverse Camera,Multimedia System",
+    "images": [
+      {
+        "id": "cbd255115b4c6ade5981b77cb",
+        "url": "https://picsum.photos/seed/honda-city-5-1/1200/800",
+        "alt": "Honda City photo 1",
+        "order": 0,
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c58a7afbdd1121d2a645a10c9",
+        "url": "https://picsum.photos/seed/honda-city-5-2/1200/800",
+        "alt": "Honda City photo 2",
+        "order": 1,
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "caeb53ac05fabedec2dd75aa6",
+        "url": "https://picsum.photos/seed/honda-city-5-3/1200/800",
+        "alt": "Honda City photo 3",
+        "order": 2,
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c8700085ac4682f168843029f",
+        "url": "https://picsum.photos/seed/honda-city-5-4/1200/800",
+        "alt": "Honda City photo 4",
+        "order": 3,
+        "carId": "cf210152c12a662e23cf60465"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cdb1d4c8b8917ad69a56e77e2",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c6cfbddfec25143a62eba9d95",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c8101ae95152943f6e99af1f7",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c5905eeb5ce1bdffe429ee8cf",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c8a535a52a734e6537b0f3b0c",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c85a36c03716fe7d9601e70d9",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "cd3521d064f94883321b18148",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "cf210152c12a662e23cf60465"
+      },
+      {
+        "id": "c8e35c5daa8ac4e7375d8819a",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "cf210152c12a662e23cf60465"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c785a6ebb5896497c31ddd78f",
+    "slug": "honda-br-v-2021-6",
+    "brand": "Honda",
+    "model": "BR-V",
+    "variant": "i-VTEC S",
+    "year": 2021,
+    "price": 5950000,
+    "mileageKm": 32000,
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "bodyType": "SUV",
+    "city": "Sialkot",
+    "color": "Modern Steel Metallic",
+    "engineCC": 1500,
+    "ownership": "2nd Owner",
+    "registeredCity": "Sialkot",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Spacious 7-seater BR-V, ideal for families. Well maintained with original paint and smooth drivetrain.",
+    "features": "7 Seater,Alloy Rims,Climate Control,Rear AC Vents,Multimedia Display",
+    "images": [
+      {
+        "id": "c43e39a098e05b7c52b12d6db",
+        "url": "https://picsum.photos/seed/honda-br-v-6-1/1200/800",
+        "alt": "Honda BR-V photo 1",
+        "order": 0,
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "ceee3526ecb6b6e419c69bc4a",
+        "url": "https://picsum.photos/seed/honda-br-v-6-2/1200/800",
+        "alt": "Honda BR-V photo 2",
+        "order": 1,
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "c8995a7a2544f59339c4d58b7",
+        "url": "https://picsum.photos/seed/honda-br-v-6-3/1200/800",
+        "alt": "Honda BR-V photo 3",
+        "order": 2,
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "c597b221726e4ae3acf5a3b9c",
+        "url": "https://picsum.photos/seed/honda-br-v-6-4/1200/800",
+        "alt": "Honda BR-V photo 4",
+        "order": 3,
+        "carId": "c785a6ebb5896497c31ddd78f"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c964e75a682198456bcadfa5b",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "c2c96af2444b8f7e3c39ae594",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "c2c9063e8d4b9e1044beb99b3",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "cbbeeaff7118d7282282523f9",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "c8352e7a565b8f1c90de94d03",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "cbdceb9dd21d92baebbfb4261",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "ca2a53f751faa0fcac0947fc5",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      },
+      {
+        "id": "cf9ba3b7d02d03fada63a9398",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c785a6ebb5896497c31ddd78f"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "ca3ec273de566519c7fa1a338",
+    "slug": "suzuki-alto-2023-7",
+    "brand": "Suzuki",
+    "model": "Alto",
+    "variant": "VXL AGS",
+    "year": 2023,
+    "price": 3150000,
+    "mileageKm": 6500,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Hatchback",
+    "city": "Lahore",
+    "color": "Pearl Glistening Black",
+    "engineCC": 660,
+    "ownership": "1st Owner",
+    "registeredCity": "Lahore",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": true,
+    "description": "Brand-new condition Suzuki Alto VXL with Auto Gear Shift, extremely fuel efficient and perfect first car or city runabout.",
+    "features": "Auto Gear Shift,Keyless Entry,Power Steering,Power Windows,Immobilizer",
+    "images": [
+      {
+        "id": "c7f55e2c3cc9739238e35c124",
+        "url": "https://picsum.photos/seed/suzuki-alto-7-1/1200/800",
+        "alt": "Suzuki Alto photo 1",
+        "order": 0,
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "c623dcad2ae99e4b128b3a09c",
+        "url": "https://picsum.photos/seed/suzuki-alto-7-2/1200/800",
+        "alt": "Suzuki Alto photo 2",
+        "order": 1,
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "c812d975f516e04c6bf46f43f",
+        "url": "https://picsum.photos/seed/suzuki-alto-7-3/1200/800",
+        "alt": "Suzuki Alto photo 3",
+        "order": 2,
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "c0a7bd16464dcc49afacff033",
+        "url": "https://picsum.photos/seed/suzuki-alto-7-4/1200/800",
+        "alt": "Suzuki Alto photo 4",
+        "order": 3,
+        "carId": "ca3ec273de566519c7fa1a338"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c822adccc961e842656d73315",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "c31038bb523352776848888ad",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "cfdef4109cf2d10081618de56",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "cac3cfbd46c924127a9bebc07",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "c281776a594a9f6eae7e10cf4",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "c446bb5d0599671ac32c2d38f",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "cb4e19e84c0385e68ba125549",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "ca3ec273de566519c7fa1a338"
+      },
+      {
+        "id": "cecfc04573f1744e0c5af7519",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "ca3ec273de566519c7fa1a338"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c7da2a0b0896930e2f4106c63",
+    "slug": "suzuki-cultus-2022-8",
+    "brand": "Suzuki",
+    "model": "Cultus",
+    "variant": "VXL",
+    "year": 2022,
+    "price": 3650000,
+    "mileageKm": 18000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "bodyType": "Hatchback",
+    "city": "Karachi",
+    "color": "Speedy Blue",
+    "engineCC": 1000,
+    "ownership": "1st Owner",
+    "registeredCity": "Karachi",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Suzuki Cultus VXL, well kept, smooth engine and gearbox, genuine mileage with full service history.",
+    "features": "Power Steering,Power Windows,Alloy Rims,Front Fog Lamps",
+    "images": [
+      {
+        "id": "c140a26fc09ea649758658d49",
+        "url": "https://picsum.photos/seed/suzuki-cultus-8-1/1200/800",
+        "alt": "Suzuki Cultus photo 1",
+        "order": 0,
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c90018e0125c4cd08f77fcca7",
+        "url": "https://picsum.photos/seed/suzuki-cultus-8-2/1200/800",
+        "alt": "Suzuki Cultus photo 2",
+        "order": 1,
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c3376d011dff0d7986898cfe9",
+        "url": "https://picsum.photos/seed/suzuki-cultus-8-3/1200/800",
+        "alt": "Suzuki Cultus photo 3",
+        "order": 2,
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c579d4c29558d6d995dca8d60",
+        "url": "https://picsum.photos/seed/suzuki-cultus-8-4/1200/800",
+        "alt": "Suzuki Cultus photo 4",
+        "order": 3,
+        "carId": "c7da2a0b0896930e2f4106c63"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c31a1457d8e338d6820222bbc",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "cf639e2d310706b368c98e181",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c7d8689492a1a8ac5c0fbc5d6",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c58cfb72c8d86de8a6b02f15e",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c830863d9d8d64dd53b29c412",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "c60149f6990324a8695464bd7",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "cb893b06411864684b3e14dbd",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      },
+      {
+        "id": "cd09c1aa3d715a4ca8de84389",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c7da2a0b0896930e2f4106c63"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c66e5d0644dfe9dcb045419c2",
+    "slug": "suzuki-swift-2023-9",
+    "brand": "Suzuki",
+    "model": "Swift",
+    "variant": "GLX CVT",
+    "year": 2023,
+    "price": 4450000,
+    "mileageKm": 9800,
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "bodyType": "Hatchback",
+    "city": "Islamabad",
+    "color": "Premium Silver",
+    "engineCC": 1200,
+    "ownership": "1st Owner",
+    "registeredCity": "Islamabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": true,
+    "description": "Suzuki Swift GLX with CVT, sporty hatchback that's fun to drive with great fuel economy and modern features.",
+    "features": "Cruise Control,Push Start,Alloy Rims,Climate Control,Reverse Camera",
+    "images": [
+      {
+        "id": "c7f68a86488df38806f1483e7",
+        "url": "https://picsum.photos/seed/suzuki-swift-9-1/1200/800",
+        "alt": "Suzuki Swift photo 1",
+        "order": 0,
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c901d5812a6cad4618db49257",
+        "url": "https://picsum.photos/seed/suzuki-swift-9-2/1200/800",
+        "alt": "Suzuki Swift photo 2",
+        "order": 1,
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "cbc31e249fcd23ac2361b25a5",
+        "url": "https://picsum.photos/seed/suzuki-swift-9-3/1200/800",
+        "alt": "Suzuki Swift photo 3",
+        "order": 2,
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c4a3fa09d82dfbb797fa2800c",
+        "url": "https://picsum.photos/seed/suzuki-swift-9-4/1200/800",
+        "alt": "Suzuki Swift photo 4",
+        "order": 3,
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c484c26711e251a8d93a99f0c",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c8292ac311a90fc908fe5e203",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c9912b19069b9930cbbc16d56",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "cad7076c3a29ef6e161aa82cf",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c3ce15f6517f019fa96255b68",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c9cf780c365139556a0a4e769",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "cb84fb90b32e2fed29f9f02d3",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      },
+      {
+        "id": "c7617d16201f46b0085ea925a",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c66e5d0644dfe9dcb045419c2"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c0ee5156934597bca49582f83",
+    "slug": "suzuki-wagonr-2021-10",
+    "brand": "Suzuki",
+    "model": "WagonR",
+    "variant": "VXL",
+    "year": 2021,
+    "price": 2850000,
+    "mileageKm": 28000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "bodyType": "Hatchback",
+    "city": "Rawalpindi",
+    "color": "Pearl White",
+    "engineCC": 1000,
+    "ownership": "2nd Owner",
+    "registeredCity": "Rawalpindi",
+    "inspection": "Passed",
+    "financeAvailable": false,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Spacious and practical WagonR VXL, economical to run and maintain, great for daily family use.",
+    "features": "Power Steering,Power Windows,Keyless Entry",
+    "images": [
+      {
+        "id": "c9c6e2b24e2decc78e2070eca",
+        "url": "https://picsum.photos/seed/suzuki-wagonr-10-1/1200/800",
+        "alt": "Suzuki WagonR photo 1",
+        "order": 0,
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "cf60f73b49e4f0fea434cb517",
+        "url": "https://picsum.photos/seed/suzuki-wagonr-10-2/1200/800",
+        "alt": "Suzuki WagonR photo 2",
+        "order": 1,
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "cbf360f8aac7cf3ce90f91821",
+        "url": "https://picsum.photos/seed/suzuki-wagonr-10-3/1200/800",
+        "alt": "Suzuki WagonR photo 3",
+        "order": 2,
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "cb8d8507bf07c2fe2c67e2cec",
+        "url": "https://picsum.photos/seed/suzuki-wagonr-10-4/1200/800",
+        "alt": "Suzuki WagonR photo 4",
+        "order": 3,
+        "carId": "c0ee5156934597bca49582f83"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c8ab359fb189a95281cae3714",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "ce539b3b4b690dc21bf5549a8",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "ce19156d6b3ae2bb349d13ccb",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "cb7012faa08c3862a436f0a4f",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "ca386409ff7db614b5fa8999c",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "ca7b600268752bb109805f353",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "c6b34ab1d8913da9eb1a47f25",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c0ee5156934597bca49582f83"
+      },
+      {
+        "id": "cd1b90e96c76ba6d933ac9407",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c0ee5156934597bca49582f83"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c58efb11343a11c88aa17c993",
+    "slug": "kia-sportage-2022-11",
+    "brand": "Kia",
+    "model": "Sportage",
+    "variant": "AWD Premium",
+    "year": 2022,
+    "price": 9850000,
+    "mileageKm": 22500,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Faisalabad",
+    "color": "Gravity Grey",
+    "engineCC": 2000,
+    "ownership": "1st Owner",
+    "registeredCity": "Faisalabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "Kia Sportage AWD Premium with panoramic sunroof and full ADAS suite. Bold modern design with luxury cabin.",
+    "features": "AWD,Panoramic Sunroof,Ventilated Seats,ADAS,360 Camera,Wireless CarPlay,Harman Kardon Audio",
+    "images": [
+      {
+        "id": "c52d83a476d17bee7a8bc1c46",
+        "url": "https://picsum.photos/seed/kia-sportage-11-1/1200/800",
+        "alt": "Kia Sportage photo 1",
+        "order": 0,
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c423eb6eaa0f76e6239b50666",
+        "url": "https://picsum.photos/seed/kia-sportage-11-2/1200/800",
+        "alt": "Kia Sportage photo 2",
+        "order": 1,
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "cadbf22ce427a069347c338f6",
+        "url": "https://picsum.photos/seed/kia-sportage-11-3/1200/800",
+        "alt": "Kia Sportage photo 3",
+        "order": 2,
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c64c01c3652c4a2aa2af59860",
+        "url": "https://picsum.photos/seed/kia-sportage-11-4/1200/800",
+        "alt": "Kia Sportage photo 4",
+        "order": 3,
+        "carId": "c58efb11343a11c88aa17c993"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cdcf2649fa3592c53e35159cd",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c9c8f92ff54ed783ed68c4ab6",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c181bd7bbc85db82ffab0baa8",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c4e6e5859ca0acac6e36c101c",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c3826f1b13ee36da3bb635cf6",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c5abd25bd93e3ada41aa2b574",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "cec4bb335549d170d74adf46a",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c58efb11343a11c88aa17c993"
+      },
+      {
+        "id": "c2f6afa8643ad39eac0fc0e78",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c58efb11343a11c88aa17c993"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "ceee4de0dcef51cf8b79b6a28",
+    "slug": "kia-picanto-2023-12",
+    "brand": "Kia",
+    "model": "Picanto",
+    "variant": "AT",
+    "year": 2023,
+    "price": 4150000,
+    "mileageKm": 11000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Hatchback",
+    "city": "Multan",
+    "color": "Signal Red",
+    "engineCC": 1000,
+    "ownership": "1st Owner",
+    "registeredCity": "Multan",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": true,
+    "description": "Compact and stylish Kia Picanto automatic, great for city commuting with modern infotainment system.",
+    "features": "Touchscreen Infotainment,Alloy Rims,Climate Control,Reverse Camera",
+    "images": [
+      {
+        "id": "c4a827e2b4150f8863e85a40e",
+        "url": "https://picsum.photos/seed/kia-picanto-12-1/1200/800",
+        "alt": "Kia Picanto photo 1",
+        "order": 0,
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c87efb12b2eacb737edb5a202",
+        "url": "https://picsum.photos/seed/kia-picanto-12-2/1200/800",
+        "alt": "Kia Picanto photo 2",
+        "order": 1,
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "cc68d1c7db7e221aef69ba5c3",
+        "url": "https://picsum.photos/seed/kia-picanto-12-3/1200/800",
+        "alt": "Kia Picanto photo 3",
+        "order": 2,
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c25424cd418e5313e27186512",
+        "url": "https://picsum.photos/seed/kia-picanto-12-4/1200/800",
+        "alt": "Kia Picanto photo 4",
+        "order": 3,
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cc1c8d45ec37615c84a688a86",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c3fa9e4b37162e4a35c64aa42",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c1c64de1f2fb8d9b7b4fcf8c6",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "cac8ff60e80f486747d32e4e7",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c051f8248fb70b5f042dcf4ab",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "cae9bc1a02eea6d3e211277c9",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c9b24851f6e54b8978933a987",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      },
+      {
+        "id": "c0f0bed5a41bfc75f07c0abf5",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "ceee4de0dcef51cf8b79b6a28"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c28ed7ffa8f8637e8675a8ca8",
+    "slug": "kia-sorento-2021-13",
+    "brand": "Kia",
+    "model": "Sorento",
+    "variant": "AWD Signature",
+    "year": 2021,
+    "price": 13900000,
+    "mileageKm": 35000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Sialkot",
+    "color": "Aurora Black Pearl",
+    "engineCC": 2200,
+    "ownership": "1st Owner",
+    "registeredCity": "Sialkot",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "7-seater Kia Sorento Signature AWD with diesel engine, premium captain seats, and full luxury package.",
+    "features": "AWD,7 Seater,Captain Seats,Panoramic Sunroof,Ventilated Seats,360 Camera",
+    "images": [
+      {
+        "id": "c4446e421d838139c0490cfdb",
+        "url": "https://picsum.photos/seed/kia-sorento-13-1/1200/800",
+        "alt": "Kia Sorento photo 1",
+        "order": 0,
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "c5603620cb64f891f51fc2e60",
+        "url": "https://picsum.photos/seed/kia-sorento-13-2/1200/800",
+        "alt": "Kia Sorento photo 2",
+        "order": 1,
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "ce8d9052f24311c3ae2e69004",
+        "url": "https://picsum.photos/seed/kia-sorento-13-3/1200/800",
+        "alt": "Kia Sorento photo 3",
+        "order": 2,
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "c773fe73eb55185c186edd2b9",
+        "url": "https://picsum.photos/seed/kia-sorento-13-4/1200/800",
+        "alt": "Kia Sorento photo 4",
+        "order": 3,
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c6fc638a58fd5436fdc6b6ae2",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "c2a5ee36c71cfcc1ec49beac9",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "ccadd56285ce41d24a6dea664",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "c027b83fa6b273d14954bf90b",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "c23b6b0a45aa518677bdf5f5f",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "c6438eaf709c82a17ec254a56",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "cc14868ea77ac70d92ca6069a",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      },
+      {
+        "id": "cc5ac4a1987660ec448961c09",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c28ed7ffa8f8637e8675a8ca8"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c7f6005e1744d81565f9fde42",
+    "slug": "hyundai-tucson-2022-14",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "variant": "AWD Ultimate",
+    "year": 2022,
+    "price": 9450000,
+    "mileageKm": 26000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Lahore",
+    "color": "Amazon Grey",
+    "engineCC": 2000,
+    "ownership": "1st Owner",
+    "registeredCity": "Lahore",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "Hyundai Tucson AWD Ultimate with bold styling, panoramic sunroof, and SmartSense safety suite.",
+    "features": "AWD,Panoramic Sunroof,SmartSense,Ventilated Seats,Wireless CarPlay,Bose Audio",
+    "images": [
+      {
+        "id": "cdea94f63084152091dd05873",
+        "url": "https://picsum.photos/seed/hyundai-tucson-14-1/1200/800",
+        "alt": "Hyundai Tucson photo 1",
+        "order": 0,
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "ce573dfa8daf65e65951aa53e",
+        "url": "https://picsum.photos/seed/hyundai-tucson-14-2/1200/800",
+        "alt": "Hyundai Tucson photo 2",
+        "order": 1,
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c300860aedbec8a22898a3412",
+        "url": "https://picsum.photos/seed/hyundai-tucson-14-3/1200/800",
+        "alt": "Hyundai Tucson photo 3",
+        "order": 2,
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c5c51c54a722da86fd56f6a7d",
+        "url": "https://picsum.photos/seed/hyundai-tucson-14-4/1200/800",
+        "alt": "Hyundai Tucson photo 4",
+        "order": 3,
+        "carId": "c7f6005e1744d81565f9fde42"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cfe37e868636a8b3ac84dfa8d",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "cd4e85213b23f8167a1937f50",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c62e70d21bf84057d6fb0ebd5",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "cbedfa3bed28420c3c035c61c",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c24412d70dd0451ed7fdf8f54",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c12ff5867646f308e36da016b",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c14635679d7a0c2f1ef3d7fe8",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c7f6005e1744d81565f9fde42"
+      },
+      {
+        "id": "c97974268b4da22ebd6448843",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c7f6005e1744d81565f9fde42"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c457de8cd9d3f372c984ce65f",
+    "slug": "hyundai-elantra-2023-15",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "variant": "GLS 2.0",
+    "year": 2023,
+    "price": 7250000,
+    "mileageKm": 14000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Sedan",
+    "city": "Karachi",
+    "color": "Shimmering Silver",
+    "engineCC": 2000,
+    "ownership": "1st Owner",
+    "registeredCity": "Karachi",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": true,
+    "description": "Hyundai Elantra GLS with bold parametric design, sunroof, and premium cabin tech.",
+    "features": "Sunroof,Cruise Control,Wireless Charging,Push Start,Alloy Rims",
+    "images": [
+      {
+        "id": "c69c308ab449227413f9d6076",
+        "url": "https://picsum.photos/seed/hyundai-elantra-15-1/1200/800",
+        "alt": "Hyundai Elantra photo 1",
+        "order": 0,
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "cd85bfbe4c8a47f4f7f4f0aaf",
+        "url": "https://picsum.photos/seed/hyundai-elantra-15-2/1200/800",
+        "alt": "Hyundai Elantra photo 2",
+        "order": 1,
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "cb504760c02122e404fac279a",
+        "url": "https://picsum.photos/seed/hyundai-elantra-15-3/1200/800",
+        "alt": "Hyundai Elantra photo 3",
+        "order": 2,
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "cfed6fe82c719c9aefe6c38c0",
+        "url": "https://picsum.photos/seed/hyundai-elantra-15-4/1200/800",
+        "alt": "Hyundai Elantra photo 4",
+        "order": 3,
+        "carId": "c457de8cd9d3f372c984ce65f"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c0812d1d84d29169a0593a53c",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "c37ff54c8c9eba5c32510679b",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "cd58a949a91f0b27af60268e5",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "c00a97b8ea8263dbebb3974ad",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "c141e2cf38194296f1d006701",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "c52c2c7ba37116644749a33c3",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "c5337b2ac6645b0657381d1a2",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      },
+      {
+        "id": "c1768e811bc6a0d15b4233b8e",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c457de8cd9d3f372c984ce65f"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c88b7170de3a0da716b4db6b8",
+    "slug": "hyundai-sonata-2021-16",
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "variant": "Signature 2.5",
+    "year": 2021,
+    "price": 9950000,
+    "mileageKm": 31000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Sedan",
+    "city": "Islamabad",
+    "color": "Phantom Black",
+    "engineCC": 2500,
+    "ownership": "1st Owner",
+    "registeredCity": "Islamabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Premium Hyundai Sonata Signature, luxury full-size sedan with executive comfort and advanced safety.",
+    "features": "Leather Seats,Ventilated Seats,Sunroof,ADAS,Bose Audio,Heads Up Display",
+    "images": [
+      {
+        "id": "c3a19d893dbe8375512b067c7",
+        "url": "https://picsum.photos/seed/hyundai-sonata-16-1/1200/800",
+        "alt": "Hyundai Sonata photo 1",
+        "order": 0,
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "c2618c9c66e607a8f93a666d5",
+        "url": "https://picsum.photos/seed/hyundai-sonata-16-2/1200/800",
+        "alt": "Hyundai Sonata photo 2",
+        "order": 1,
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "cc76df49bdaa1d3064cbb3de5",
+        "url": "https://picsum.photos/seed/hyundai-sonata-16-3/1200/800",
+        "alt": "Hyundai Sonata photo 3",
+        "order": 2,
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "c5e9919b6af605e43b4412cf8",
+        "url": "https://picsum.photos/seed/hyundai-sonata-16-4/1200/800",
+        "alt": "Hyundai Sonata photo 4",
+        "order": 3,
+        "carId": "c88b7170de3a0da716b4db6b8"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cfa89d5c587b661f290bcad48",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "c14c272e24d99ac519ff214fc",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "cb022588db060e6ccc7499488",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "c9dae25351709a305e3ddeb99",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "ce3449a6ef0120b1383cc36e4",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "cd6f36c592aa8b88466dc760c",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "cb3fc32c6e391f2f7b8f97fde",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      },
+      {
+        "id": "c56c431e686ba57a578517f7b",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c88b7170de3a0da716b4db6b8"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "cb214adb1575d14dfcf70518b",
+    "slug": "mg-hs-2022-17",
+    "brand": "MG",
+    "model": "HS",
+    "variant": "Trophy 1.5T",
+    "year": 2022,
+    "price": 8650000,
+    "mileageKm": 20000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Rawalpindi",
+    "color": "Brewster Grey",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Rawalpindi",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "MG HS Trophy with turbocharged engine, panoramic sunroof, and feature-loaded cabin at great value.",
+    "features": "Panoramic Sunroof,360 Camera,Wireless CarPlay,Heated Seats,Adaptive Cruise Control",
+    "images": [
+      {
+        "id": "c9e40cad4fc702ba05c2913c7",
+        "url": "https://picsum.photos/seed/mg-hs-17-1/1200/800",
+        "alt": "MG HS photo 1",
+        "order": 0,
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "cd18ad5d9e7f21c679f69c33c",
+        "url": "https://picsum.photos/seed/mg-hs-17-2/1200/800",
+        "alt": "MG HS photo 2",
+        "order": 1,
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "c647f04e586fd9df37120454e",
+        "url": "https://picsum.photos/seed/mg-hs-17-3/1200/800",
+        "alt": "MG HS photo 3",
+        "order": 2,
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "c2c916e8c503c4e2ccb8ab4ab",
+        "url": "https://picsum.photos/seed/mg-hs-17-4/1200/800",
+        "alt": "MG HS photo 4",
+        "order": 3,
+        "carId": "cb214adb1575d14dfcf70518b"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c71edef2740d8d8302d3adb9b",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "ce57d2cb67fb3608538719980",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "cbe878475031b381a0ad68004",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "ca3a42cf9c78beccee2b41ef5",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "c9ddc26bdd0ca239e0cda198a",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "c3bee4abe26122e115defb90d",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "c855f078cf2c759a984df9301",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "cb214adb1575d14dfcf70518b"
+      },
+      {
+        "id": "cec8b41b26f5013c90e3debc0",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "cb214adb1575d14dfcf70518b"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c29db5df2bf12f799644605f4",
+    "slug": "mg-zs-2023-18",
+    "brand": "MG",
+    "model": "ZS",
+    "variant": "EV Standard",
+    "year": 2023,
+    "price": 8950000,
+    "mileageKm": 9000,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Faisalabad",
+    "color": "Glaze Red",
+    "engineCC": null,
+    "ownership": "1st Owner",
+    "registeredCity": "Faisalabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": true,
+    "description": "Fully electric MG ZS EV, zero emissions, low running cost with 320+ km range on a single charge.",
+    "features": "Electric Drive,Panoramic Sunroof,360 Camera,Fast Charging,Regenerative Braking",
+    "images": [
+      {
+        "id": "cf9e8223f97132310da348581",
+        "url": "https://picsum.photos/seed/mg-zs-18-1/1200/800",
+        "alt": "MG ZS photo 1",
+        "order": 0,
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "cfa3997e55839d7599176a342",
+        "url": "https://picsum.photos/seed/mg-zs-18-2/1200/800",
+        "alt": "MG ZS photo 2",
+        "order": 1,
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "c25628c17a5a3ddcd95b930f7",
+        "url": "https://picsum.photos/seed/mg-zs-18-3/1200/800",
+        "alt": "MG ZS photo 3",
+        "order": 2,
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "c73796ef6dc7524c618138006",
+        "url": "https://picsum.photos/seed/mg-zs-18-4/1200/800",
+        "alt": "MG ZS photo 4",
+        "order": 3,
+        "carId": "c29db5df2bf12f799644605f4"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "caf6b2056301735db4862bb13",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "c096c605d39cdddbef4ed67d3",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "cd26f2638f46905c65022c092",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "cb2da65517278e3bdae9906a1",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "c8ee1b6d1af47a7e70c4aa742",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "ce197a0300a583ea92379dc14",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "cae984af12296e3acd41a4800",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c29db5df2bf12f799644605f4"
+      },
+      {
+        "id": "ce8f34c79d0ee90c8972dd092",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c29db5df2bf12f799644605f4"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c80c3be246d4cb6b6b5cd4d0f",
+    "slug": "mg-5-2022-19",
+    "brand": "MG",
+    "model": "5",
+    "variant": "Standard 1.5",
+    "year": 2022,
+    "price": 5450000,
+    "mileageKm": 17500,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "bodyType": "Sedan",
+    "city": "Multan",
+    "color": "Diamond White",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Multan",
+    "inspection": "Passed",
+    "financeAvailable": false,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "MG 5 sedan with spacious cabin and modern design, great value for money in its segment.",
+    "features": "Touchscreen Infotainment,Alloy Rims,Climate Control",
+    "images": [
+      {
+        "id": "ce7c81dc984b7ce06358ca0d3",
+        "url": "https://picsum.photos/seed/mg-5-19-1/1200/800",
+        "alt": "MG 5 photo 1",
+        "order": 0,
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "c238f54769b19ac3f394cb7f3",
+        "url": "https://picsum.photos/seed/mg-5-19-2/1200/800",
+        "alt": "MG 5 photo 2",
+        "order": 1,
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "cee4130296c92537f6e423c47",
+        "url": "https://picsum.photos/seed/mg-5-19-3/1200/800",
+        "alt": "MG 5 photo 3",
+        "order": 2,
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "c1cb34574da35177ac18b94b1",
+        "url": "https://picsum.photos/seed/mg-5-19-4/1200/800",
+        "alt": "MG 5 photo 4",
+        "order": 3,
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "ca0cd425aecf01aa9366de251",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "cf02532860171e3926af432da",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "cc272e83fd1d8d446d715737f",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "c3470376223926e219ff6d188",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "c61b1270636962f6f6fac5478",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "c5a6fd708a8378266c10f7000",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "cfbae8d670bea810600678b65",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      },
+      {
+        "id": "c77a2b6f639d62c93149e5a06",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c80c3be246d4cb6b6b5cd4d0f"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c8fe52adf597f122190879843",
+    "slug": "changan-alsvin-2023-20",
+    "brand": "Changan",
+    "model": "Alsvin",
+    "variant": "1.5L Lumiere+",
+    "year": 2023,
+    "price": 4250000,
+    "mileageKm": 7500,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Sedan",
+    "city": "Sialkot",
+    "color": "Pearl White",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Sialkot",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": true,
+    "description": "Changan Alsvin Lumiere+ with sporty design and well-equipped cabin, excellent fuel economy for daily use.",
+    "features": "Sunroof,Cruise Control,Push Start,Reverse Camera,Touchscreen Infotainment",
+    "images": [
+      {
+        "id": "c171e5c48cc7c3b47a6a90160",
+        "url": "https://picsum.photos/seed/changan-alsvin-20-1/1200/800",
+        "alt": "Changan Alsvin photo 1",
+        "order": 0,
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "cd743720ae94f19dcf0e1350b",
+        "url": "https://picsum.photos/seed/changan-alsvin-20-2/1200/800",
+        "alt": "Changan Alsvin photo 2",
+        "order": 1,
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "cd0704cf1e44abe9f5a9c8bb9",
+        "url": "https://picsum.photos/seed/changan-alsvin-20-3/1200/800",
+        "alt": "Changan Alsvin photo 3",
+        "order": 2,
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "cb96dec8d42ceda9be5964e78",
+        "url": "https://picsum.photos/seed/changan-alsvin-20-4/1200/800",
+        "alt": "Changan Alsvin photo 4",
+        "order": 3,
+        "carId": "c8fe52adf597f122190879843"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c2034ec369d48f23d8b28c294",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "c0bec69cf6ddad22fbfb72407",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "c05d539d8f8ca5c470a73e2c2",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "cad19c7951b4698f41eecb1d6",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "c7a057e2fe292c6bc926a2c52",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "cfe34fc283df4d4c4aaee6b4d",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "ce8a9a2b2666b923699fa9f85",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c8fe52adf597f122190879843"
+      },
+      {
+        "id": "c9042b2347ec76eea643345c5",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c8fe52adf597f122190879843"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "ceb5d7ef2851fd94ba8400ab4",
+    "slug": "changan-oshan-x7-2022-21",
+    "brand": "Changan",
+    "model": "Oshan X7",
+    "variant": "Flagship",
+    "year": 2022,
+    "price": 7950000,
+    "mileageKm": 16000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Lahore",
+    "color": "Galaxy Black",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Lahore",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "Changan Oshan X7 Flagship SUV with massive dual screens, panoramic sunroof, and premium tech features.",
+    "features": "Panoramic Sunroof,Dual Screen Display,360 Camera,Ventilated Seats,ADAS",
+    "images": [
+      {
+        "id": "ca22add9648868b359282db86",
+        "url": "https://picsum.photos/seed/changan-oshan-x7-21-1/1200/800",
+        "alt": "Changan Oshan X7 photo 1",
+        "order": 0,
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c94a31849f2361f7efc1e06ef",
+        "url": "https://picsum.photos/seed/changan-oshan-x7-21-2/1200/800",
+        "alt": "Changan Oshan X7 photo 2",
+        "order": 1,
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "cfb5224a893836ecd8150645b",
+        "url": "https://picsum.photos/seed/changan-oshan-x7-21-3/1200/800",
+        "alt": "Changan Oshan X7 photo 3",
+        "order": 2,
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c462b5625b33f6f57f0819a84",
+        "url": "https://picsum.photos/seed/changan-oshan-x7-21-4/1200/800",
+        "alt": "Changan Oshan X7 photo 4",
+        "order": 3,
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c95ca65534de018121b532d99",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c74398e66f4de9648479f18af",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c4409ee5947735138652b9620",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c44b01bf332ebd1654f8f5558",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "caaa6fd82dcf6b9ac138e3617",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c1dcf658982b690ca38b15856",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c6469e15ae261a768b807c01a",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      },
+      {
+        "id": "c02b777385bc479cc05f83198",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "ceb5d7ef2851fd94ba8400ab4"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c7c374c4cc8c1760979a914e1",
+    "slug": "proton-saga-2022-22",
+    "brand": "Proton",
+    "model": "Saga",
+    "variant": "Premium AT",
+    "year": 2022,
+    "price": 4350000,
+    "mileageKm": 15500,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "Sedan",
+    "city": "Karachi",
+    "color": "Jet Grey",
+    "engineCC": 1300,
+    "ownership": "1st Owner",
+    "registeredCity": "Karachi",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Proton Saga Premium AT, reliable and comfortable sedan with good fuel economy and low maintenance cost.",
+    "features": "Push Start,Reverse Camera,Alloy Rims,Climate Control",
+    "images": [
+      {
+        "id": "c4508a1f5d23fb607959d8711",
+        "url": "https://picsum.photos/seed/proton-saga-22-1/1200/800",
+        "alt": "Proton Saga photo 1",
+        "order": 0,
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "c9fff243b44b199eebdd648d2",
+        "url": "https://picsum.photos/seed/proton-saga-22-2/1200/800",
+        "alt": "Proton Saga photo 2",
+        "order": 1,
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "c17a61c2c87a99c8ace947e82",
+        "url": "https://picsum.photos/seed/proton-saga-22-3/1200/800",
+        "alt": "Proton Saga photo 3",
+        "order": 2,
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "cd404daa748ca07584e2e981a",
+        "url": "https://picsum.photos/seed/proton-saga-22-4/1200/800",
+        "alt": "Proton Saga photo 4",
+        "order": 3,
+        "carId": "c7c374c4cc8c1760979a914e1"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c69fc5dcd9e9fd7925230addd",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "cf4fa9fabbbbc9d0aead5bf69",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "cd1723ea184b2a6925e17f69a",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "c7e373f4ea88e5c952c582ad1",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "c01eaffe778f3a6c64b1b4946",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "ce8f376419b09d6adcd695148",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "ccfe59a717d9352ecb870510c",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      },
+      {
+        "id": "c6d2cecc2dfd37593f77b2e70",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c7c374c4cc8c1760979a914e1"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "cd628f317446ec5a3fdf3109a",
+    "slug": "proton-x70-2021-23",
+    "brand": "Proton",
+    "model": "X70",
+    "variant": "Premium AWD",
+    "year": 2021,
+    "price": 7450000,
+    "mileageKm": 29000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Islamabad",
+    "color": "Armor Green",
+    "engineCC": 1800,
+    "ownership": "2nd Owner",
+    "registeredCity": "Islamabad",
+    "inspection": "Pending",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": false,
+    "isNewArrival": false,
+    "description": "Proton X70 Premium AWD, feature-rich SUV with turbocharged engine and luxurious interior at competitive price.",
+    "features": "AWD,Panoramic Sunroof,360 Camera,Leather Seats,Wireless CarPlay",
+    "images": [
+      {
+        "id": "c71223c571eb4a28efce77da6",
+        "url": "https://picsum.photos/seed/proton-x70-23-1/1200/800",
+        "alt": "Proton X70 photo 1",
+        "order": 0,
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "c303644aec2d359c6998f880d",
+        "url": "https://picsum.photos/seed/proton-x70-23-2/1200/800",
+        "alt": "Proton X70 photo 2",
+        "order": 1,
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "c38e68a8c30c52eae7e6dcbd3",
+        "url": "https://picsum.photos/seed/proton-x70-23-3/1200/800",
+        "alt": "Proton X70 photo 3",
+        "order": 2,
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "ce135012a6aca3aa61b109e85",
+        "url": "https://picsum.photos/seed/proton-x70-23-4/1200/800",
+        "alt": "Proton X70 photo 4",
+        "order": 3,
+        "carId": "cd628f317446ec5a3fdf3109a"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "cb9382d913966127590026a9e",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "c0499282bc91682fa1bf98e4f",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "c82cdc7b774934c9e3bb19118",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "cb546453b1ed27bb4e9475646",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "c7958d1eec934ce4fced66d52",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "c15a81f24744c703bf8aae15a",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "cfd0dda555263c64eb9b9f852",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      },
+      {
+        "id": "cb9486062276a5a5b0e3e4d50",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "cd628f317446ec5a3fdf3109a"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "cfcb0c0a8e7dd8b4cd9340a12",
+    "slug": "toyota-land-cruiser-2020-24",
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "variant": "ZX 4.6",
+    "year": 2020,
+    "price": 38500000,
+    "mileageKm": 42000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "bodyType": "SUV",
+    "city": "Rawalpindi",
+    "color": "Attitude Black",
+    "engineCC": 4600,
+    "ownership": "2nd Owner",
+    "registeredCity": "Rawalpindi",
+    "inspection": "Passed",
+    "financeAvailable": false,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": false,
+    "description": "Flagship Toyota Land Cruiser ZX, the ultimate luxury 4x4 with unmatched off-road capability and premium comfort.",
+    "features": "4x4 Drive,Leather Seats,Massage Seats,360 Camera,Sunroof,JBL Audio,Adaptive Cruise Control",
+    "images": [
+      {
+        "id": "cb3b2c208ae32d0448260a57a",
+        "url": "https://picsum.photos/seed/toyota-land-cruiser-24-1/1200/800",
+        "alt": "Toyota Land Cruiser photo 1",
+        "order": 0,
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c9f995b349241020dd28c65e1",
+        "url": "https://picsum.photos/seed/toyota-land-cruiser-24-2/1200/800",
+        "alt": "Toyota Land Cruiser photo 2",
+        "order": 1,
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "ccf9a3e71b79072a7f4f9c00b",
+        "url": "https://picsum.photos/seed/toyota-land-cruiser-24-3/1200/800",
+        "alt": "Toyota Land Cruiser photo 3",
+        "order": 2,
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c035aa61765494f5418c68c21",
+        "url": "https://picsum.photos/seed/toyota-land-cruiser-24-4/1200/800",
+        "alt": "Toyota Land Cruiser photo 4",
+        "order": 3,
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "c8242d4258c2fd5a5e8e2a177",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c630f39c15d8f251093ac31c4",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "cfa6f1e4a20a3d9e4e339a143",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c101810d78727a8f4539ee826",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c0dc32cd362d6c842da773657",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c8b89a3b89b05b66845046e6f",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "cf8a310068ba935606c12db04",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      },
+      {
+        "id": "c62b403475cb8b59961c45972",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "cfcb0c0a8e7dd8b4cd9340a12"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c5d74fb03c6e3d371ea759afd",
+    "slug": "honda-hr-v-2023-25",
+    "brand": "Honda",
+    "model": "HR-V",
+    "variant": "VTi-S",
+    "year": 2023,
+    "price": 7150000,
+    "mileageKm": 10500,
+    "fuelType": "Petrol",
+    "transmission": "CVT",
+    "bodyType": "Crossover",
+    "city": "Faisalabad",
+    "color": "Meteoroid Gray Metallic",
+    "engineCC": 1500,
+    "ownership": "1st Owner",
+    "registeredCity": "Faisalabad",
+    "inspection": "Passed",
+    "financeAvailable": true,
+    "status": "Available",
+    "featured": true,
+    "isNewArrival": true,
+    "description": "All-new Honda HR-V VTi-S crossover with sleek styling and Honda Sensing safety suite.",
+    "features": "Honda Sensing,Sunroof,Push Start,Alloy Rims,Wireless CarPlay",
+    "images": [
+      {
+        "id": "ce4ca74ad989221da20e453c4",
+        "url": "https://picsum.photos/seed/honda-hr-v-25-1/1200/800",
+        "alt": "Honda HR-V photo 1",
+        "order": 0,
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c584a6ccd7cd11571496c2346",
+        "url": "https://picsum.photos/seed/honda-hr-v-25-2/1200/800",
+        "alt": "Honda HR-V photo 2",
+        "order": 1,
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c6f43ede63e48362045c6d166",
+        "url": "https://picsum.photos/seed/honda-hr-v-25-3/1200/800",
+        "alt": "Honda HR-V photo 3",
+        "order": 2,
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c834fb5d5e1ee8346fd29a27e",
+        "url": "https://picsum.photos/seed/honda-hr-v-25-4/1200/800",
+        "alt": "Honda HR-V photo 4",
+        "order": 3,
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      }
+    ],
+    "inspectionReport": [
+      {
+        "id": "ca19d740b3e7ecbe24969e125",
+        "label": "Engine & Transmission",
+        "status": "Excellent",
+        "notes": "No leaks, smooth operation",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "caaac8795fa7fc7f52982064c",
+        "label": "Body & Paint",
+        "status": "Excellent",
+        "notes": "Genuine paint, no dents",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c5b4f515dd26951c741f3bb0a",
+        "label": "Suspension & Steering",
+        "status": "Good",
+        "notes": "No unusual noise",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c9647259c645e16110bdf39be",
+        "label": "Brakes",
+        "status": "Excellent",
+        "notes": "Pads and discs in good condition",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c84daf02d8a930c313854132c",
+        "label": "Electricals",
+        "status": "Good",
+        "notes": "All functions working",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "ce5099546d29e4687738dd112",
+        "label": "AC / Climate Control",
+        "status": "Excellent",
+        "notes": "Cooling perfectly",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "c35765607652cedabb13c2e76",
+        "label": "Tyres",
+        "status": "Good",
+        "notes": "70% tread remaining",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      },
+      {
+        "id": "cac60e4f068b3669445f24864",
+        "label": "Documents",
+        "status": "Verified",
+        "notes": "Original file, token tax paid",
+        "carId": "c5d74fb03c6e3d371ea759afd"
+      }
+    ],
+    "createdAt": "2026-06-30T20:51:41.289Z",
+    "updatedAt": "2026-06-30T20:51:41.289Z"
+  }
+]

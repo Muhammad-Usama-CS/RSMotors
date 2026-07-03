@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cf60a90825366671952b677cf",
+    "name": "Ahmed Raza",
+    "rating": 5,
+    "comment": "Bought my Honda Civic from RS Motors, the entire process was transparent and smooth. Highly recommend for anyone looking for a genuine used car in Lahore.",
+    "carBought": "Honda Civic 2023",
+    "avatar": null,
+    "createdAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "ce1596d4fa8f6f267b9bd129b",
+    "name": "Sana Malik",
+    "rating": 5,
+    "comment": "Excellent customer service and the inspection report gave me real confidence before buying. My Toyota Corolla was exactly as described.",
+    "carBought": "Toyota Corolla 2022",
+    "avatar": null,
+    "createdAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c38b67c492d7a14dc0a5e94ea",
+    "name": "Bilal Hussain",
+    "rating": 4,
+    "comment": "Good experience overall, the financing assistance helped me get my Kia Sportage with an easy down payment plan.",
+    "carBought": "Kia Sportage 2022",
+    "avatar": null,
+    "createdAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c36ce2f3a8c8d7ebd884ff615",
+    "name": "Fatima Sheikh",
+    "rating": 5,
+    "comment": "Traded in my old Suzuki Cultus and upgraded to a Hyundai Tucson. RS Motors gave me a fair valuation and the whole thing took less than a week.",
+    "carBought": "Hyundai Tucson 2022",
+    "avatar": null,
+    "createdAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "cd3d41c5a2290e4e29c3bf472",
+    "name": "Usman Tariq",
+    "rating": 5,
+    "comment": "Professional team, no hidden charges, and the car was delivered exactly on time with all original documents.",
+    "carBought": "Suzuki Swift 2023",
+    "avatar": null,
+    "createdAt": "2026-06-30T20:51:41.289Z"
+  },
+  {
+    "id": "c9ef370569c5258006a803aec",
+    "name": "Ayesha Khan",
+    "rating": 4,
+    "comment": "Very satisfied with my purchase. The team was patient with all my questions and arranged a thorough test drive.",
+    "carBought": "MG HS 2022",
+    "avatar": null,
+    "createdAt": "2026-06-30T20:51:41.289Z"
+  }
+]

@@ -1,0 +1,188 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+enum FuelType {
+  Petrol
+  Diesel
+  Hybrid
+  Electric
+  CNG
+}
+
+enum Transmission {
+  Manual
+  Automatic
+  CVT
+}
+
+enum BodyType {
+  Sedan
+  Hatchback
+  SUV
+  Crossover
+  Van
+  Pickup
+  Coupe
+}
+
+enum InspectionStatus {
+  Passed
+  Pending
+  NotInspected
+}
+
+enum CarStatus {
+  Available
+  Reserved
+  Sold
+}
+
+enum InquiryStatus {
+  New
+  Contacted
+  Closed
+}
+
+enum BookingStatus {
+  Pending
+  Confirmed
+  Completed
+  Cancelled
+}
+
+model Car {
+  id              String            @id @default(cuid())
+  slug            String            @unique
+  brand           String
+  model           String
+  variant         String?
+  year            Int
+  price           Int
+  mileageKm       Int
+  fuelType        FuelType
+  transmission    Transmission
+  bodyType        BodyType
+  city            String
+  color           String
+  engineCC        Int?
+  ownership       String
+  registeredCity  String?
+  inspection      InspectionStatus  @default(NotInspected)
+  financeAvailable Boolean          @default(false)
+  status          CarStatus         @default(Available)
+  featured        Boolean           @default(false)
+  isNewArrival    Boolean           @default(false)
+  description     String
+  features        String
+  images          CarImage[]
+  inspectionReport InspectionItem[]
+  bookings        Booking[]
+  reservations    Reservation[]
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+
+  @@index([brand, model])
+  @@index([status])
+}
+
+model CarImage {
+  id     String @id @default(cuid())
+  url    String
+  alt    String?
+  order  Int    @default(0)
+  carId  String
+  car    Car    @relation(fields: [carId], references: [id], onDelete: Cascade)
+}
+
+model InspectionItem {
+  id     String @id @default(cuid())
+  label  String
+  status String
+  notes  String?
+  carId  String
+  car    Car    @relation(fields: [carId], references: [id], onDelete: Cascade)
+}
+
+model Inquiry {
+  id        String        @id @default(cuid())
+  name      String
+  email     String
+  phone     String
+  message   String
+  source    String        @default("contact")
+  status    InquiryStatus @default(New)
+  createdAt DateTime      @default(now())
+}
+
+model Booking {
+  id        String        @id @default(cuid())
+  name      String
+  phone     String
+  email     String?
+  date      DateTime
+  notes     String?
+  status    BookingStatus @default(Pending)
+  carId     String
+  car       Car           @relation(fields: [carId], references: [id], onDelete: Cascade)
+  createdAt DateTime      @default(now())
+}
+
+model Reservation {
+  id        String        @id @default(cuid())
+  name      String
+  phone     String
+  email     String?
+  amount    Int           @default(50000)
+  status    BookingStatus @default(Pending)
+  carId     String
+  car       Car           @relation(fields: [carId], references: [id], onDelete: Cascade)
+  createdAt DateTime      @default(now())
+}
+
+model TradeIn {
+  id          String   @id @default(cuid())
+  name        String
+  phone       String
+  email       String?
+  brand       String
+  model       String
+  year        Int
+  mileageKm   Int
+  condition   String
+  city        String
+  images      String?
+  estimatedValue Int?
+  status      InquiryStatus @default(New)
+  createdAt   DateTime @default(now())
+}
+
+model Review {
+  id        String   @id @default(cuid())
+  name      String
+  rating    Int
+  comment   String
+  carBought String?
+  avatar    String?
+  createdAt DateTime @default(now())
+}
+
+model NewsletterSubscriber {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  createdAt DateTime @default(now())
+}
+
+model Admin {
+  id        String   @id @default(cuid())
+  name      String
+  email     String   @unique
+  password  String
+  role      String   @default("admin")
+  createdAt DateTime @default(now())
+}
